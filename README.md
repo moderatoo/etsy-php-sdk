@@ -4,12 +4,12 @@ A PHP SDK for the Etsy API v3.
 This package is still in development.
 
 ## Requirements
-PHP 7.1 or greater.
+PHP 5.6 
 
 ## Install
 Install the package using composer.
 ```php
-composer require rhysnhall/etsy-php-sdk
+composer require moderatoo/etsy-php-sdk
 ```
 
 Include the OAuth client and Etsy class.
