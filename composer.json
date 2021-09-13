@@ -1,6 +1,6 @@
 {
   "name": "moderatoo/etsy-php-sdk",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "description": "PHP SDK for Etsy API v3.",
   "type": "library",
   "keywords": [
